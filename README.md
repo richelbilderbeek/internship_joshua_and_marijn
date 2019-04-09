@@ -15,7 +15,7 @@ Internship of Marijn at the Marijnsuniversiteit Groningen.
    on building a 3D printer
 
  * Deliverable: Marijn will write a report and email it at Thursday
-   April 18th 16:15
+   April 18th 16:00
 
 ## Monday April 15th 2019
 
@@ -55,6 +55,6 @@ Time|What|Where
 9:00-10:30|Meeting 7: ?|Room ?
 10:30-12:00|Meeting 8: ?|Room ?
 12:00-13:00|Lunch|Big table at 5th floor
-13:00-16:15|Write report|Room ?
-16:15-16:30|Free (Richel needs to grade the report)|.
-16:30-17:00|Evaluation with Richel|Canteen
+13:00-16:00|Write report|Room ?
+16:00-16:15|Free (Richel needs to grade the report)|.
+16:15-16:45|Evaluation with Richel|Canteen
