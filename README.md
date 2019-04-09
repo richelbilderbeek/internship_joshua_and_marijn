@@ -10,10 +10,9 @@ Internship of Marijn at the Marijnsuniversiteit Groningen.
 
 > How do theoretical biologists simulate nature?
 
- * Who is Marijn: he is a 16 year old scholar, 
-   interested in working with computers,
-   and a member of the programming team called 
-   [Team Octane](https://github.com/richelbilderbeek/djog_unos_2018)
+ * Who is Marijn: he is a 16 year old scholar,
+   that followed Richel's Arduino course and worked
+   on building a 3D printer
 
  * Deliverable: Marijn will write a report and email it at Thursday
    April 18th 16:15
