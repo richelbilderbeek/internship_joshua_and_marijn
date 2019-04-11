@@ -2,31 +2,16 @@
 
 Internship of Marijn at the Marijnsuniversiteit Groningen.
 
- * Goal: show how working at the university is 
-   like, so Marijn can better decide on his future career
-
- * How: tell him about and show him your work in one of the time slots.
-   His research question is:
-
-> How do theoretical biologists simulate nature?
-
- * Who is Marijn: he is a 16 year old scholar,
-   that followed Richel's Arduino course and worked
-   on building a 3D printer
-
- * Deliverable: Marijn will write a report and email it at Thursday
-   April 18th 16:00
-
 ## Monday April 15th 2019
 
 Time|What|Where
 ---|---|---
 8:30-9:00|Briefing Richel|Canteen of the Linnaeusborg at the Zernike campus
-9:00-10:30|Meeting 1: ?|Room ?
-10:30-12:00|Meeting 2: ?|Room ?
+9:00-10:30|Meeting 1: Christoph Netz|Room ?
+10:30-12:00|Meeting 2: Theo Pannetier|Room ?
 12:00-13:00|Lunch|Big table at 5th floor
-13:00-14:30|Meeting 3: ?|Room ?
-14:30-16:00|Meeting 4: ?|Room ?
+13:00-14:30|Meeting 3: Anne-marie and Ines|Room ?
+14:30-16:00|Meeting 4: Maaike|Room ?
 16:00-17:00|Evaluation with Richel, write report|Canteen
 
 ## Tuesday April 16th
@@ -41,8 +26,8 @@ version on your mobile phone
 Time|What|Where
 ---|---|---
 9:00-9:30|Briefing Richel|Canteen of the Linnaeusborg at the Zernike campus
-9:30-11:00|Meeting 5: ?|Room ?
-11:00-12:30|Meeting 6: ?|Room ?
+9:30-11:00|Meeting 5: Pedro|Room ?
+11:00-12:30|Meeting 6: Self-organization group|Room ?
 12:30-13:30|Lunch|Big table at 5th floor
 13:30-16:00|TRES meetings|Room 5172.579 aka Blue Room
 16:00-16:30|Evaluation with Richel, write report|Canteen
@@ -52,9 +37,48 @@ Time|What|Where
 Time|What|Where
 ---|---|---
 8:30-9:00|Briefing Richel|Canteen of the Linnaeusborg at the Zernike campus
-9:00-10:30|Meeting 7: ?|Room ?
-10:30-12:00|Meeting 8: ?|Room ?
+9:00-10:30|Meeting 7: Raphael and Pratik|Room ?
+10:30-11:00|Meeting 8: Cyrus |Room ?
+11:00-12:00|Meeting 9: ? |Room ?
 12:00-13:00|Lunch|Big table at 5th floor
 13:00-16:00|Write report|Room ?
 16:00-16:15|Free (Richel needs to grade the report)|.
 16:15-16:45|Evaluation with Richel|Canteen
+
+## Questions for supervisors
+
+### Who is Marijn?
+
+Marijn is a 16 year old scholar,
+that followed Richel's Arduino course and worked
+on building a 3D printer.
+
+### What should I do during my slot
+
+You can fill the time in any way you like.
+
+Consider:
+
+ * telling/showing your work
+ * teaching some basic biology, to prepare him for NLSEB and the TRES meeting
+ * show the lab/campus/etc
+ * taking a walk
+
+### A slot of 90 minutes is too long for one person
+
+Slots can also be filled with more than one person :wink:
+
+### Aaah! I cannot be there! What should I do?
+
+It's fine. Just let Richel or Marijn or any colleague know. 
+We'll find a solution :+1:
+
+### What is the goal of the internship?
+
+To learn how working at a university is like.
+
+### What will the intern deliver?
+
+At April 18th 16:00, he'll hand in a report to answer the question:
+
+> How do biologists investigate nature?
