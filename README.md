@@ -1,6 +1,6 @@
 # internship_marijn
 
-Internship of Marijn at the Marijnsuniversiteit Groningen.
+Internship of Marijn at the Rijksuniversiteit Groningen.
 
 ## Monday April 15th 2019
 
