@@ -10,8 +10,8 @@ Time|What|Where
 9:00-10:30|Meeting 1: Christoph Netz|Room 5172.583
 10:30-12:00|Meeting 2: Theo Pannetier|Room 5172.547
 12:00-13:00|Lunch|Big table at 5th floor
-13:00-14:30|Meeting 3: Anne-Marie and Ines|Room 5172.583
-14:30-16:00|Meeting 4: Maaike|Room 5172.585
+13:00-14:30|Meeting 3: Anne-Marie and Ines Daras|Room 5172.583
+14:30-16:00|Meeting 4: Maaike Sangster|Room 5172.585
 16:00-17:00|Evaluation with Richel, write report|Canteen
 
 ## Tuesday April 16th
@@ -26,19 +26,21 @@ version on your mobile phone
 Time|What|Where
 ---|---|---
 9:00-9:30|Briefing Richel|Canteen of the Linnaeusborg at the Zernike campus
-9:30-11:00|Meeting 5: Pedro|Room 5172.0547
-11:00-12:30|Meeting 6: Self-organization group|Room 5171.512
+9:30-11:00|Meeting 5: Pedro Neves|Room 5172.0547
+11:00-12:30|Meeting 6: Self-organization group [1] |Room 5171.512
 12:30-13:30|Lunch|Big table at 5th floor
 13:30-16:00|TRES meetings|Room 5172.579 aka Blue Room
 16:00-16:30|Evaluation with Richel, write report|Canteen
+
+ * [1] On behalf of Marina Papadopoulou :smiley:
 
 ## Thursday April 18th 2019
 
 Time|What|Where
 ---|---|---
 8:30-9:00|Briefing Richel|Canteen of the Linnaeusborg at the Zernike campus
-9:00-10:30|Meeting 7: Raphael and Pratik|Room 5172.0547
-10:30-11:00|Meeting 8: Cyrus |Room 5172.555a
+9:00-10:30|Meeting 7: Raphael Scherrer and Pratik Gupte|Room 5172.0547
+10:30-11:00|Meeting 8: Cyrus Mallon|Room 5172.555a
 11:00-12:00|Meeting 9: ? |Room ?
 12:00-13:00|Lunch|Big table at 5th floor
 13:00-16:00|Write report|Room ?
