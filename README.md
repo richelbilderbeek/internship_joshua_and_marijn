@@ -1,6 +1,6 @@
 # internship_marijn
 
-Internship of Marijn at the Rijksuniversiteit Groningen.
+Internship of Marijn and Joshua at the Rijksuniversiteit Groningen.
 
 ![](lb.png)
 
