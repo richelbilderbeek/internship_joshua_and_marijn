@@ -12,7 +12,8 @@ Time|What|Where
 12:00-13:00|Lunch|Big table at 5th floor
 13:00-14:30|Meeting 3: Anne-Marie and Ines Daras|Room 5172.583
 14:30-16:00|Meeting 4: Maaike Sangster|Room 5172.585
-16:00-17:00|Evaluation with Richel, write report|Canteen
+16:00-16:45|Colloquium Jorn Claassen: The (im)possibility of a universal species concept|Room 5171.0415 ('The Eye')
+16:45-17:00|Evaluation with Richel, write report|Canteen
 
 ## Tuesday April 16th
 
@@ -20,6 +21,12 @@ NLSEB, take train at 6:48 at CS Groningen.
 
 :warning: bring a printed version of your NLSEB ticket, or have the mobile
 version on your mobile phone
+
+To|From
+---|---
+![](to.png)|![](from.png)
+
+We'll leave at 16:30
 
 ## Wednesday April 17th 2019
 
