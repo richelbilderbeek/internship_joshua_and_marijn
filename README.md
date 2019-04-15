@@ -78,7 +78,7 @@ You can fill the time in any way you like.
 Consider:
 
  * telling/showing your work
- * teaching some basic biology, to prepare him for NLSEB and the TRES meeting
+ * teaching some basic biology, to prepare them for NLSEB and the TRES meeting
  * show the lab/campus/etc
  * taking a walk
 
@@ -88,15 +88,15 @@ Slots can also be filled with more than one person :wink:
 
 ### Aaah! I cannot be there! What should I do?
 
-It's fine. Just let Richel or Marijn or any colleague know. 
+It's fine. Just let Richel, Marijn, Joshua or any colleague know. 
 We'll find a solution :+1:
 
 ### What is the goal of the internship?
 
 To learn how working at a university is like.
 
-### What will the intern deliver?
+### What will the interns deliver?
 
-At April 18th 16:00, he'll hand in a report to answer the question:
+At April 18th 16:00, they'll hand in a report to answer the question:
 
 > How do biologists investigate nature?
