@@ -17,7 +17,10 @@ Time|What|Where
 
 ## Tuesday April 16th
 
-NLSEB, take train at 6:48 at CS Groningen.
+NLSEB, 
+
+ * We take thhe train at 6:48 at CS Groningen.
+ * We'll leave at 16:30 at Ede-Wageningen and will be back at 19:12
 
 :warning: bring a printed version of your NLSEB ticket, or have the mobile
 version on your mobile phone
@@ -25,8 +28,6 @@ version on your mobile phone
 To|From
 ---|---
 ![](to.png)|![](from.png)
-
-We'll leave at 16:30
 
 ## Wednesday April 17th 2019
 
