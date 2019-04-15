@@ -2,6 +2,8 @@
 
 Internship of Marijn at the Rijksuniversiteit Groningen.
 
+![](lb.png)
+
 ## Monday April 15th 2019
 
 Time|What|Where
