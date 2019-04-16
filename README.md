@@ -36,7 +36,7 @@ To|From
 Time|What|Where
 ---|---|---
 9:00-9:30|Briefing Richel|Canteen of the Linnaeusborg at the Zernike campus
-9:30-11:00|Meeting 5: Pedro Neves|Room 5172.0547
+9:30-11:00|Meeting 5: Theo Pannetier|Room 5172.0547
 11:00-12:30|Meeting 6: Self-organization group [1] |Room 5171.512
 12:30-13:30|Lunch|Big table at 5th floor
 13:30-16:00|TRES meetings|Room 5172.579 aka Blue Room
