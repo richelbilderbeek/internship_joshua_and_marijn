@@ -37,7 +37,8 @@ Time|What|Where
 ---|---|---
 9:00-9:30|Briefing Richel|Canteen of the Linnaeusborg at the Zernike campus
 9:30-10:15|Meeting 5: Theo Pannetier|Room 5172.0547
-10:15-11:00|Meeting 5.5: ?|Room ?
+10:15-10:30|Briefing about [report](report.md)|Big table at 5th floor
+10:30-11:00|Meeting 5.5: Leo Beukeboom and poster|Room 5172.0679
 11:00-12:30|Meeting 6: Self-organization group [1] |Room 5171.512
 12:30-13:30|Lunch|Big table at 5th floor
 13:30-16:30|TRES meetings|Room 5172.579 aka Blue Room
@@ -54,9 +55,15 @@ Time|What|Where
 10:30-11:00|Meeting 8: Cyrus Mallon|Room 5172.555a
 11:00-12:00|Meeting 9: ? |Room ?
 12:00-13:00|Lunch|Big table at 5th floor
-13:00-16:30|Write report|Room ?
-16:30-16:45|Free (Richel needs to grade the report)|.
-16:45-17:15|Evaluation with Richel|Canteen
+13:00-13:45|Write [report](report.md) 1/4|Richel's secret spot
+13:45-14:00|Walk
+14:00-14:45|Write [report](report.md) 2/4|Richel's secret spot
+14:45-15:00|Walk
+15:00-15:45|Write [report](report.md) 3/4|Richel's secret spot
+15:45-16:00|Walk
+16:00-16:45|Write [report](report.md) 4/4|Richel's secret spot
+16:45-17:00|Free (Richel needs to grade the report)|.
+16:00-17:15|Evaluation with Richel|Canteen
 
 ## Questions for supervisors
 
