@@ -1,4 +1,4 @@
-# internship_marijn
+  # internship_marijn
 
 Internship of Marijn and Joshua at the Rijksuniversiteit Groningen.
 
@@ -54,9 +54,9 @@ Time|What|Where
 10:30-11:00|Meeting 8: Cyrus Mallon|Room 5172.555a
 11:00-12:00|Meeting 9: ? |Room ?
 12:00-13:00|Lunch|Big table at 5th floor
-13:00-16:00|Write report|Room ?
-16:00-16:15|Free (Richel needs to grade the report)|.
-16:15-16:45|Evaluation with Richel|Canteen
+13:00-16:30|Write report|Room ?
+16:30-16:45|Free (Richel needs to grade the report)|.
+16:45-17:15|Evaluation with Richel|Canteen
 
 ## Questions for supervisors
 
