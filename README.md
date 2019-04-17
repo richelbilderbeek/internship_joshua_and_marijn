@@ -75,7 +75,7 @@ on building a 3D printer.
 
 ### Who is Joshua?
 
-Joshua is a 16 year old scholar,
+Joshua is an almost 16 year old scholar,
 that is the lead developer of [Team Octane's Nature Zen](https://github.com/richelbilderbeek/djog_unos_2018),
 a game development team supervised by Richel.
 
