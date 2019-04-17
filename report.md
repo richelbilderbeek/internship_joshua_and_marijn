@@ -1,6 +1,6 @@
 # Population dynamics of toxin-producing bacteria 
 
- * Authors: Marijn Meerveld and Joshua van Waardenbergh 
+ * Authors: Marijn Meerveld and Joshua van Waardenberg
 
 ## Introduction
 
