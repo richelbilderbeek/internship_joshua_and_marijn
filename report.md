@@ -4,6 +4,8 @@
 
 ## Introduction
 
+## Hypothesis
+
 ## Material and Methods
 
 ### Simulation
