@@ -40,8 +40,8 @@ Time|What|Where
 10:15-11:00|Meeting 5.5: ?|Room ?
 11:00-12:30|Meeting 6: Self-organization group [1] |Room 5171.512
 12:30-13:30|Lunch|Big table at 5th floor
-13:30-16:00|TRES meetings|Room 5172.579 aka Blue Room
-16:00-16:30|Evaluation with Richel, write report|Canteen
+13:30-16:30|TRES meetings|Room 5172.579 aka Blue Room
+16:30-17:00|Evaluation with Richel, write report|Canteen
 
  * [1] On behalf of Marina Papadopoulou :smiley:
 
