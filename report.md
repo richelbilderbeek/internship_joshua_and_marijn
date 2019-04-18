@@ -19,7 +19,11 @@ toxic displaces sensitive, sensitive displaces immune, immune displaces toxic [1
 
 ## Material and Methods
 
-For this research we will use a computer moddel [1].
+For this research we used a computer moddel [1]. In our computer model every bacterium lives in a cell. All cells together form a grid, this grid is constantly beeing updated in a loop going from the upper left down to the lower right.
+Each cycle all bacteria pick a random direction to where they are going to duplicate,
+if the cell in that direction is empty the bacterium can always duplicate.
+If there is an other bacterium in that cell it uses the rock-paper-scissors pattern described earlier to dertermine whether that cell can duplicate.
+Once a bacterium has duplicated it locks the cell it has duplicated to to prevent the dupclicates of a bacterium from duplicating in the same cycle.
 
 ### Simulation
 
@@ -37,8 +41,7 @@ For this research we will use a computer moddel [1].
 ## Discussion
 
 To keep things simple we didn't implement everything like Hilje Doekes did.
-
-[RB: Write the simplifications you did here]
+We don't keep track of the toxicity rate of the cells and our bacteria don't die.
 
 ## References
 
