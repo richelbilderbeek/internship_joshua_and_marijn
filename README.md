@@ -53,17 +53,18 @@ Time|What|Where
 8:30-9:00|Briefing Richel|Canteen of the Linnaeusborg at the Zernike campus
 9:00-10:30|Meeting 7: Raphael Scherrer and Pratik Gupte|Room 5172.0547
 10:30-11:00|Meeting 8: Cyrus Mallon|Room 5172.555a
-11:00-12:00|Meeting 9: ? |Room ?
-12:00-13:00|Lunch|Big table at 5th floor
-13:00-13:45|Write [report](report.md) 1/4|Richel's secret spot
-13:45-14:00|Walk
-14:00-14:45|Write [report](report.md) 2/4|Richel's secret spot
-14:45-15:00|Walk
-15:00-15:45|Write [report](report.md) 3/4|Richel's secret spot
-15:45-16:00|Walk
-16:00-16:45|Write [report](report.md) 4/4|Richel's secret spot
-16:45-17:00|Free (Richel needs to grade the report)|.
-16:00-17:15|Evaluation with Richel|Canteen
+11:00-11:15|Prepare working on [report](report.md)
+11:15-12:00|Write [report](report.md) 1/5|Table near 5171.0066
+12:00-12:35|Lunch|Big table at 5th floor
+12:35-12:45|Prepare working on [report](report.md)
+12:45-13:30|Write [report](report.md) 2/5|Table near 5171.0066
+13:30-13:45|Walk
+13:45-14:30|Write [report](report.md) 3/5|Table near 5171.0066
+14:30-14:45|Walk
+14:45-15:30|Write [report](report.md) 4/5|Table near 5171.0066
+15:30-15:45|Walk
+15:45-16:30|Write [report](report.md) 5/5|Table near 5171.0066
+16:30-16:45|Evaluation with Richel|Table near 5171.0066
 
 ## Questions for supervisors
 
