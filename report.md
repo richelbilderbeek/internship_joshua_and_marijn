@@ -19,24 +19,26 @@ toxic displaces sensitive, sensitive displaces immune, immune displaces toxic [1
 
 ## Material and Methods
 
-For this research we used a computer moddel [1]. In our computer model every bacterium lives in a cell. All cells together form a grid, this grid is constantly beeing updated in a loop going from the upper left down to the lower right.
+For this research we used a computer moddel [1]. In our computer model every bacterium lives in a cell on a torus shaped world.
+All cells together form a grid, this grid is constantly beeing updated in a loop going from the upper left down to the lower right.
 Each cycle all bacteria pick a random direction to where they are going to duplicate,
 if the cell in that direction is empty the bacterium can always duplicate.
 If there is an other bacterium in that cell it uses the rock-paper-scissors pattern described earlier to dertermine whether that cell can duplicate.
 Once a bacterium has duplicated it locks the cell it has duplicated to to prevent the dupclicates of a bacterium from duplicating in the same cycle.
 
-### Simulation
-
- * A bacterium can yes/no produce toxins
- * A bacterium can yes/no be immune to toxins
- * A bacterium that is not immune to toxins dies from toxins
- * Producing toxins is costly
- * Being immune to toxins is costly
- * Bacteria are in a 100x100 grid, each cell has either one bacterium, or is empty
-
 ## Results
 
+![simulation](poTxWc.jpg.png)
+
+In this picture we see the simulation while running and you can see that the three different bacteria are living together.
+
+![results](graph.png)
+
+This graph shows the ammount of bacteria of each sort. In the beginning the amount of bacteria grows rapidly, this is becouse we start with justs a single bacterium of every sort. After that stay sort of stable.
+
 ## Conclusion
+
+With these results we can conclude that three competing bacteria can coexist.
 
 ## Discussion
 
