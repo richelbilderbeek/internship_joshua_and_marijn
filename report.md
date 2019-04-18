@@ -36,11 +36,13 @@ For this research we will use a computer moddel [1].
 
 ## Discussion
 
+To keep things simple we didn't implement everything like Hilje Doekes did.
+
 [RB: Write the simplifications you did here]
 
 ## References
 
- * [1] Eisberg, Robert, and Robert Resnick. "Quantum physics of atoms, molecules, solids, nuclei, and particles." Quantum Physics of Atoms, Molecules, Solids, Nuclei, and Particles, 2nd Edition, by Robert Eisberg, Robert Resnick, pp. 864. ISBN 0-471-87373-X. Wiley-VCH, January 1985. (1985): 864.
+ * [1] Kerr, Benjamin, et al. "Local dispersal promotes biodiversity in a real-life game of rock–paper–scissors." Nature 418.6894 (2002): 171.
 
 ## Acknowledgments
 
