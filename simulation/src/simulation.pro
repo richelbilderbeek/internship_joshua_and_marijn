@@ -59,15 +59,10 @@ CONFIG(debug, debug|release) {
 QMAKE_CXXFLAGS += -Wall -Wextra -Wshadow -Wnon-virtual-dtor -pedantic
 QMAKE_CXXFLAGS += -Werror
 
-# SFML
-# GNU/Linux
-unix:!macx {
-  LIBS += -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio
+LIBS += -L~/GitHubs/RibiLibraries/mxe/usr/i686-w64-mingw32.static/lib
+LIBS += -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio
 
-  #LIBS += -L"/home/rafayel/SFML/lib"
-  #INCLUDEPATH += "/home/rafayel/SFML/include"
-  #DEPENDPATH += "/home/rafayel/SFML/include"
-}
+
 
 # Qt5
 QT += core gui
