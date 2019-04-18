@@ -6,13 +6,16 @@
 
 At the NLSEB conference we saw Hilje Doekes' presentation about toxin production in bacteria. 
 In this presentation Hilje Doekes talked about toxic, immune and sensitive bacteria living together.
-It is suprising that these bacteria can coexist because one would expect the bacteria sensitive to the toxins to die.
+It is suprising that these bacteria can coexist because the number of food resources equals the number of species that can live together. 
+Therefore one would expect that only one of the three sorts of bacteria survives.
 But we know that these bacteria can live together [1].
-We thought that this is a interesting topic so we wanted to replicate Hilje Doekes' setup about how this works.
+We thought that this is a interesting topic so we wanted to replicate Hilje Doekes' setup.
 
 ## Hypothesis
 
-we think that those tree bacteria can live together, because the bacteria create a sort of rock-paper-scissors relationship, where each bacteria can displace an other bacteria[1].
+we think that those tree bacteria can live together, because the bacteria create a rock-paper-scissors relationship,
+where each bacteria can displace another bacteria in a circular order: 
+toxic displaces sensitive, sensitive displaces immune, immune displaces toxic [1].
 
 ## Material and Methods
 
