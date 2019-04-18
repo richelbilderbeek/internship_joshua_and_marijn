@@ -6,22 +6,17 @@
 
 At the NLSEB conference we saw Hilje Doekes' presentation about toxin production in bacteria. 
 In this presentation Hilje Doekes talked about toxic, immune and sensitive bacteria living together.
-[RB: why is it unexpected that multiple bacteria can coexist on one food source?] 
-Hilje Doekes also recommended a article called "Local Dispersal promotes biodiversity in a real game of rock-paper-scissors" for more information about this. 
-[RB: Use a form like: 'We know ... [1]', where [1] is a reference (see below), use Google Scholar to find a nice format]
-We thought that this is a interesting topic and 
-we wanted to do a little research on whether these three bacteria can live together.
-[RB: I think first we'll replicate her setup :-)]
+It is suprising that these bacteria can coexist because one would expect the bacteria sensitive to the toxins to die.
+But we know that these bacteria can live together [1].
+We thought that this is a interesting topic so we wanted to replicate Hilje Doekes' setup about how this works.
 
 ## Hypothesis
 
-we think that those tree bacteria can live together.
-[RB: Why?]
+we think that those tree bacteria can live together, because the bacteria create a sort of rock-paper-scissors relationship, where each bacteria can displace an other bacteria[1].
 
 ## Material and Methods
 
-For this research we will use a computer moddel.
-[RB: From which paper?]
+For this research we will use a computer moddel [1].
 
 ### Simulation
 
