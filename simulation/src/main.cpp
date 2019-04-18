@@ -1,4 +1,5 @@
 #include <iostream>
+#include <fstream>
 #include <vector>
 #include <random>
 #include <ctime>
@@ -78,17 +79,21 @@ class grid {
     }
     
     int bact_size;
+    int ticks = 0;
     
     cell &get_cell(int x, int y) {
       return cells.at(y).at(x);
     }
     
-    void process(sf::RenderWindow &window, sf::Color c_tox, sf::Color c_imm, sf::Color c_nor) {
+    void process(sf::RenderWindow &window, sf::Color c_tox, sf::Color c_imm, sf::Color c_nor, std::ofstream &file) {
       for (auto& v : cells) {
         for (auto& c : v) {
           c.locked = false;
         }
       }
+      int toxic_count = 0;
+      int immune_count = 0;
+      int normal_count = 0;
       for (unsigned int y = 0; y < cells.size(); y++) {
         for (unsigned int x = 0; x < cells.at(y).size(); x++) {
           cell &c = cells.at(y).at(x);
@@ -128,21 +133,25 @@ class grid {
             switch (c.inhabitant.at(0).type) {
               case bact_type::toxic:
                 rect.setFillColor(c_tox);
+                ++toxic_count;
                 break;
               case bact_type::normal:
                 rect.setFillColor(c_nor);
+                ++normal_count;
                 break;
               case bact_type::immune:
                 rect.setFillColor(c_imm);
+                ++immune_count;
                 break;
             }
             window.draw(rect);
           }
         }
       }
+      ++ticks;
+      file << ticks << " " << toxic_count << " " << immune_count << " " << normal_count << "\n";
     }
     
-  private:
     std::vector<std::vector<cell>> cells{};
 };
 
@@ -156,13 +165,18 @@ int main() {
   const sf::Color toxic_color(255, 255, 0);
   const sf::Color immune_color(255, 0, 255);
   const sf::Color normal_color(0, 255, 255);
+  ///////////////
+  const std::string filename = "output.txt";
   ///////////////////////////////////////////////////
   const int screen_width = grid_width * bact_size;
   const int screen_height = grid_height * bact_size;
   ///////////////////////////////////////////////////
   
   std::srand(std::time(0));
-  grid g(grid_width, grid_height, bact_size);
+  std::ofstream outputfile;
+  outputfile.open(filename);
+  outputfile << "time toxic immune normal\n";
+  grid g(grid_width % 1000, grid_height % 800, bact_size);
   
   ///////////////////////////////////////////////////
   // Starting positions //
@@ -175,8 +189,32 @@ int main() {
     g.get_cell(54, 38).inhabit(b3);
   }
   ///////////////////////////////////////////////////
+  {
+    int toxic_count = 0;
+    int immune_count = 0;
+    int normal_count = 0;
+    for (auto& v : g.cells) {
+      for (auto& c : v) {
+        if (!c.empty()) {
+          switch (c.inhabitant.at(0).type) {
+            case bact_type::toxic:
+              ++toxic_count;
+              break;
+            case bact_type::normal:
+              ++normal_count;
+              break;
+            case bact_type::immune:
+              ++immune_count;
+              break;
+          }
+        }
+      }
+    }
+    outputfile << "0 " << toxic_count << " " << immune_count << " " << normal_count << "\n";
+  }
   
   sf::RenderWindow window(sf::VideoMode(screen_width, screen_height), "Rock Paper Scissors - Bacteria Simulator", sf::Style::Titlebar | sf::Style::Close);
+  
   while (window.isOpen()) {
     sf::Event event;
     while (window.pollEvent(event))
@@ -185,9 +223,10 @@ int main() {
         window.close();
     }
     window.clear();
-    g.process(window, toxic_color, immune_color, normal_color);
+    g.process(window, toxic_color, immune_color, normal_color, outputfile);
     window.display();
   }
   
+  outputfile.close();
   return 0;
 }
