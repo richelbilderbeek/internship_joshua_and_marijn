@@ -61,7 +61,7 @@ QMAKE_CXXFLAGS += -Werror
 
 LIBS += -L~/GitHubs/RibiLibraries/mxe/usr/i686-w64-mingw32.static/lib
 LIBS += -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio
-
+DEFINES += SFML_STATIC
 
 
 # Qt5
