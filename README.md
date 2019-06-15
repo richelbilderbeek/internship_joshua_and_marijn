@@ -1,4 +1,8 @@
-  # internship_marijn
+# internship_marijn
+
+Branch|[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)
+---|---
+`master`|[![Build Status](https://travis-ci.org/richelbilderbeek/internship_marijn.svg?branch=master)](https://travis-ci.org/richelbilderbeek/internship_marijn)
 
 Internship of Marijn and Joshua at the Rijksuniversiteit Groningen.
 
