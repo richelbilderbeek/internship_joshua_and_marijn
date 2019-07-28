@@ -6,6 +6,12 @@ Branch|[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)
 
 Internship of Marijn and Joshua at the Rijksuniversiteit Groningen.
 
+## [Report](report.md)
+
+ * [View the report here](report.md)
+
+## Where
+
 ![](lb.png)
 
 ## Monday April 15th 2019
